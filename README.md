@@ -34,6 +34,12 @@
 ![hhhg](https://user-images.githubusercontent.com/38296077/126984677-644fabb8-76ea-48a9-a6eb-d5901bcb85cb.jpeg)
 
 
+- Check internet connection
+
+![WhatsApp Image 2021-07-28 at 1 45 19 PM](https://user-images.githubusercontent.com/38296077/127317109-839c6d62-1227-4850-8615-a12809449d1f.jpeg)
+
+
+
 ## :mag: Details Screen
 
 - Used Hero animation widget and animated text kit.
