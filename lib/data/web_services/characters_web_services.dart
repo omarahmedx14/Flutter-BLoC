@@ -1,5 +1,5 @@
 import 'package:dio/dio.dart';
-import 'package:flutter_breaking/constants/strings.dart';
+import '../../constants/strings.dart';
 
 class CharactersWebServices {
   late Dio dio;
